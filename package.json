@@ -1,6 +1,6 @@
 {
   "name": "setup_twa",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple one line script which can help you to publsh ne TWA app",
   "main": "index.js",
   "scripts": {
