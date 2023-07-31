@@ -1,0 +1,29 @@
+{
+  "name": "setup_twa",
+  "version": "1.0.0",
+  "description": "Simple one line script which can help you to publsh ne TWA app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimitreee/setup_twa.git"
+  },
+  "keywords": [
+    "twa",
+    "setup",
+    "console"
+  ],
+  "author": "Dima D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimitreee/setup_twa/issues"
+  },
+  "homepage": "https://github.com/Dimitreee/setup_twa#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "redline": "^1.0.1"
+  }
+}
